@@ -5,13 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhupinder-j&label=Profile%20views&color=0e75b6&style=flat" alt="bhupinder-j" /> </p>
 
-- 🌱 I’m currently learning **ReactJs, NOdeJs**
+- 🌱 I’m currently learning **ReactJs, NodeJs, ExpressJs, MongoDb**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **ReactJs, NodeJs, ExpressJs, MongoDb**
 
 - 📫 How to reach me **sbhupinderj9721@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bhupinderjitsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhupinderjitsingh" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/xcodeblooded" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="xcodeblooded" height="30" width="40" /></a>
